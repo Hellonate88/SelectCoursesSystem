@@ -1,0 +1,34 @@
+
+.input_text{
+	height: 24px;
+	border-radius: 5px;
+	border: 1px solid #c8c2c2;
+	outline: none;
+}
+.input_text:FOCUS{
+	border-color: #fc3333;
+	box-shadow: 3px 2px 12px -4px #fc3333;
+}
+.btn_class{
+	height: 27px;
+	width: 70px;
+	background-color: #908080;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	border-radius: 4px;
+}
+.btn_class:HOVER{
+	background-color: #d56c6c;
+}
+
+.btn_class:FOCUS {
+	outline: none;
+	border: 1px solid #ffffff;
+	border-radius: 4px;
+}
+
+.btn_class:ACTIVE {
+	outline: none;
+	border: 1px solid #ffffff;
+	border-radius: 4px;		
+}

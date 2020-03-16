@@ -1,0 +1,132 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	outline: none;
+	text-decoration: none;
+}
+.main_head_class{
+	width: 100%;
+	height: 140px;
+	background-color: #d56c6c;
+	text-align: center;
+}
+.main_head_show_class{
+	/* padding: 5px 5px; */
+}
+
+.main_head_show_class p{
+	font-size: 28px;
+	color: #ffffff;
+	padding: 50px;
+	font-weight: 300;
+}
+.main_head_show_class p:HOVER{
+	color: #2b3942;
+	text-shadow: 3px 2px 6px;
+}
+.main_student_info_class{
+	background-color: #e3e1e1;
+	overflow: hidden;
+}
+.student_info_class{
+	height: 550px;
+	width: 30%;
+	background-color: #fefcfc;
+	float: left;
+	margin: 1%;
+}
+.student_info_head_class{
+	padding: 5px
+}
+.student_info_head_first{
+	height: 180px;
+	background-color: #d56c6c;
+}
+.student_info_head_img_class{
+    text-align: center;	
+    margin-top: -50px;
+	margin-bottom:  30px;
+}
+.student_info_head_img_class img{
+	width: 93px;
+	height: 93px;
+	border-radius: 61px;
+	border: 4px solid #ffffff;
+}
+/* 学生选课退选信息 */
+.student_operator_class{
+	text-align: center;
+	width: 70%;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+.student_operator_class li{
+	list-style: none;
+	display: block;
+	margin: 10px 5px;
+}
+.student_operator_class li a{
+	font-size: 17px;
+	font-weight: 300;
+}
+.student_operator_class p{
+	font-size: 20px;
+	font-weight: 300;
+} 
+.student_operator_class li a:HOVER{
+	color: #d56c6c;	
+	text-shadow: 3px 2px 6px;
+}
+.main_student_courses_info{
+
+	width: 65%;
+	margin: 1%;
+	float: right;
+	background-color: #ffffff;	
+	display: block;
+}
+.selected_courses_show,.can_selecte_courses_show{
+	color: #ffffff;
+	font-size: 20px;
+	text-align: center;
+	padding: 15px;
+	font-weight: 300;
+}
+.selected_courses_show_table,.can_select_courses_show_table{
+	text-align: center;
+	width: 100%;
+	border: 1px solid #ebe4e4;
+	background: #ffffff;
+}
+.selected_courses_show_table td,.can_select_courses_show_table td{
+	line-height: 35px;
+	border: 1px solid #e0d7d7;
+}
+.selected_courses_show_table td a,.can_select_courses_show_table td a{
+	color: #c23b3b
+}
+.selected_courses_show_table th,.can_select_courses_show_table th{
+	line-height: 35px;
+}
+
+.selected_courses_show_table th{
+	width: 21%;
+}
+.student_courses_info_backgroud{
+	padding: 5px;
+}
+.student_courses_info{
+	background-color: #d56c6c;	
+}
+.current_div{
+	display: block;
+}
+.table_empty_show{
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+

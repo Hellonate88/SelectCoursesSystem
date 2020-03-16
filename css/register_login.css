@@ -1,0 +1,104 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+	outline: none;
+}
+.content{
+	background-image: url("../images/10.jpg");
+	background-position: 0px -270px;
+}
+.main_content{
+	margin: 220px 150px;
+	background-color: #535a5f;
+	text-align: center;
+	width: 30%;
+	border-radius: 6px;
+}
+.select_login_or_register_class{
+	padding: 11px 21px;
+	text-align: left;
+}
+.select_login_or_register_class a{
+	color: #ffffff;
+}
+
+.select_login_class{
+	
+}
+.head_img_class img{
+	width: 92px;
+	border-radius: 100px;
+	margin-bottom: 16px;
+}
+.select_register_class{
+	margin-left: 10px;
+}
+
+.login_class{
+	
+}
+.account_total_class,.password_total_class{
+	width: 40px;
+	height: 40px;
+	margin-left: 25%;
+}
+.account_total_class{
+	background: url("../images/adm.png") no-repeat 0 center;	
+}
+.password_total_class{
+	background: url("../images/key.png") no-repeat 0 center;
+}
+
+.account_class,.password_class{
+	float: left;
+	background: none;
+	height: 37px;
+	color: #ffffff;
+	padding: 0px 40px;
+	margin: 0px 0px;
+	border-style: none;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color: #ffffff;
+}
+
+.select_indentity,.select_sex_class{
+/* 	margin: 0 auto; */
+	margin: 13px;
+}
+.manager_class,.student_class,.sex_man_class,.sex_woman_class{
+	color: #ffffff;	
+}
+
+.manager_class,.sex_woman_class{
+	margin-left: 10px;
+}
+.student_class,.sex_man_class{
+	margin-right: 10px;
+}
+.login_btn_class{
+	
+}
+.login_btn, .register_btn_class{
+	margin-bottom: 14px;
+	width: 90px;
+	height: 28px;
+	border-radius: 5px;
+	color: #ffffff;
+	background-color: #c02e2e;
+	border: 0 solid;
+}
+.login_btn:HOVER,.register_btn_class:HOVER{
+	background:#489c9c;
+}
+
+.register_class{
+	display: none;	
+}
+
+.welcome{
+	color: white;
+}

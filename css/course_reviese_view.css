@@ -1,0 +1,30 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.main_course_reviese_view{
+	background-color: #f9f3f3;
+	margin-top: 3px;
+	padding: 10px;
+}
+.position_class{
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	border: 1px solid #e3e0e0;
+	margin-top: 20px ;
+	border-radius: 6px;
+}
+.position_class li{
+	padding: 46px;
+	list-style: none;
+}
+.position_class input {
+	margin-left: 17px;
+	font-weight: 300;
+}
+.btn_class{
+	margin-bottom: 17px;
+}
+

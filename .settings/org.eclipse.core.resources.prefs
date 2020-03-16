@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//controller/LoginController.class.php=UTF-8
+encoding//dao/MysqlDb.class.php=UTF-8
+encoding//dao/initDb.php=UTF-8
+encoding//model/ManagersModel.class.php=UTF-8
+encoding//model/Model.class.php=UTF-8
+encoding//view/manager/ManagerView.php=UTF-8
+encoding/RegisterLogin.php=UTF-8
+encoding/config.php=UTF-8
